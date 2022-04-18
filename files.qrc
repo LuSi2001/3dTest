@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/ascii">
+        <file>gebco_2021_n43.3135986328125_s38.3038330078125_w7.580566406250001_e10.491943359375.asc</file>
+    </qresource>
+    <qresource prefix="/images"/>
+    <qresource prefix="/icons"/>
+    <qresource prefix="/shader">
+        <file>fshader.glsl</file>
+        <file>vshader.glsl</file>
+    </qresource>
+</RCC>
